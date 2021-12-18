@@ -1,0 +1,10 @@
+E01 , The GodFather                                 , Mario Puzo            , English       , 60.500
+E02 , Forrest Gump                                  , Winston Groom         , English       , 54.000
+E03 , The Great Gatsby                              , F. Scott Fitzgerald   , English       , 86.000
+E04 , The Silence of the Lambs                      , Thomas Harris         , English       , 90.000
+E05 , To Kill a Mockingbird                         , Harper Lee            , English       , 170.000
+E06 , How to Win Friends and Influence People       , Dale Carnegie         , English       , 184.000
+VN01, Dac nhan tam                                  , Dale Carnegie         , Vietnamese    , 60.000
+VN02, Doi ngan dung ngu dai                         , Robin Sharma          , Vietnamese    , 80.800
+CN01, Tam vai do                                    , Hong Niang Zi         , Chinese       , 100.000
+CN02, Ngoai tru ban the gioi khong la gi voi toi    , Jiajiu Fengzhe        , Chinese       , 153.000
